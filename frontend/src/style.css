@@ -1,0 +1,8 @@
+/* src/style.css */
+
+/* 导入 Tailwind 的基本层 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* (可选) 您可以在这里添加任何自定义全局样式 */
